@@ -18,5 +18,5 @@ func EXTRA_SUM(x, y, z int) int {
 }
 
 func EXTRA_SUM2(x, y, z int) int {
-	return z + x + y + 100
+	return z + x + y + 100 + 1
 }

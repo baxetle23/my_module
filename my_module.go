@@ -12,3 +12,7 @@ func SUM_NEW(x, y int) int {
 func MINUS(x, y int) int {
 	return x - y - 1
 }
+
+func EXTRA_SUM(x, y, z int) int {
+	return z + x + y + 100
+}
